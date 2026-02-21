@@ -26,3 +26,4 @@ Here you can click `R` to run once or `A` to always run. I simply clicked `R` si
 Now, you should see a folder called <b>Net9</b>. This contains all the tools that Eric Zimmerman has created where you can play around with them. Some require other components in order to use them, so watch out for that. 
 
 <img src="images/download_5.png" width="600px" alt="Downloading EZ Tools">
+
